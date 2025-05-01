@@ -1,0 +1,14 @@
+{
+  "name": "ai-chat-webapp",
+  "version": "1.0.0",
+  "description": "A web application that allows users to have text conversations with an AI using Google API.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
